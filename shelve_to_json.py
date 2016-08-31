@@ -26,3 +26,5 @@ for key, value in input.iteritems():
     out[key] = value
 
 save_pretty_json(out, src+".json")
+
+print( src+".json created" )

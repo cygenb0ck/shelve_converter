@@ -29,4 +29,5 @@ for key, value in input.items():
     out[key] = value
 
 out.close()
+print( src + ".p3.shelve created" )
 
