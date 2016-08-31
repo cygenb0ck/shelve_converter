@@ -15,4 +15,4 @@ Switched from Python version 2.7 to 3.4 during development and had to convert so
 
 ## License
 
-license? haha, just use it, i wont guarantee anything ...
+MIT
